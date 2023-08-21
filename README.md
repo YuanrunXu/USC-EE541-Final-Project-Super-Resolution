@@ -4,8 +4,14 @@
 ## SRCNN
 ![SRCNN](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/f506a4a8-80fb-47e6-8c55-739181e1a53f)
 
+![SRCNN_results](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/c808212e-183e-4b03-9c86-a9fb2f5902ac)
+
+
 ## SRGNN
 ![SRGAN](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/1796abc7-d63a-4d80-ab4e-307d54404e05)
+
+![SRGAN_results](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/f1b028ff-62f4-4f1a-8903-30c1bdffc358)
+
 
 
 

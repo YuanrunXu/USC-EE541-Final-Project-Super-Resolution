@@ -1,5 +1,13 @@
 # USC-EE541-Final-Project
-CV Super Resolution
+## CV Super Resolution
+
+## SRCNN
+![SRCNN](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/f506a4a8-80fb-47e6-8c55-739181e1a53f)
+
+## SRGNN
+![SRGAN](https://github.com/YuanrunXu/USC-EE541-Final-Project-Super-Resolution/assets/43257371/1796abc7-d63a-4d80-ab4e-307d54404e05)
+
+
 
 # Folders:
 ## Bicubic: code of Bicubic interpolation
@@ -12,7 +20,7 @@ CV Super Resolution
 - dataLoading.py: load train, validation, and test dataset from the Data folder
 - evaluate.py: methods of calculating SNR, PSNR, and SSIM.
 
-##Data
+## Data
 Data folder contains a folder named DIV2K. DIV2K contains the train, validation, and test dataset. 
 Images are directly in HR folders: DIV2K_test_HR, DIV2K_train_HR, and DIV2K_valid_HR. However, images in LR folders are under a sub-folder named X2
 - dataOverview.py: shows the overview of the dataset
